@@ -20,8 +20,8 @@ GREEN  | ![#22C55E](https://via.placeholder.com/15/22C55E/000000?text=+) `#22C55
 BLUE   | ![#3B82F6](https://via.placeholder.com/15/3B82F6/000000?text=+) `#3B82F6`
 INDIGO | ![#6366F1](https://via.placeholder.com/15/6366F1/000000?text=+) `#6366F1`
 VIOLET | ![#8B5CF6](https://via.placeholder.com/15/8B5CF6/000000?text=+) `#8B5CF6`
-DARK   | ![#334155](https://via.placeholder.com/15/334155/000000?text=+) `#334155`
 LIGHT  | ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+) `#FFFFFF`
+DARK   | ![#334155](https://via.placeholder.com/15/334155/000000?text=+) `#334155`
 
 #### Font
 
